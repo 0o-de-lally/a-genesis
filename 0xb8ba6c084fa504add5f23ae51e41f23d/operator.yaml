@@ -5,7 +5,7 @@ consensus_public_key: "0x886876a8755d74cce34ffa545ad6250e48ebc866a5989d97b1e8ab0
 consensus_proof_of_possession: "0xb7b2647d33377e3ac7cb04515c3c5cc13cfbc399015b011456688fa5e740c1c9a579d87fee001c7a3e1037a13ded833c09f7ccda45a9f7acca93943f8f9bef57e496e248e713a25a108d0386ab1454a9c13f49b21fcc22b049e46e608d941b7e"
 validator_network_public_key: "0x481b1c5f30c472b1463445f6e9b8ed517cab75e2c3775ac2704db55c89df7a19"
 validator_host:
-  host: 172.104.214.254
+  host: 172.104.211.8
   port: 6180
 full_node_network_public_key: ~
 full_node_host: ~
